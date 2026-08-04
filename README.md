@@ -64,5 +64,5 @@ O objetivo final é oferecer aos usuários acesso a dados detalhados sobre anún
 - Análise de gráficos e dados utilizando o Render.com e VSCode: Utilização do Render.com para implantar e disponibilizar o aplicativo web na nuvem, enquanto o VSCode é empregado para o desenvolvimento e depuração do código, garantindo a funcionalidade do aplicativo e a correta visualização dos gráficos gerados a partir dos dados.
 - Avaliação do impacto de mudanças nos dados sobre a distribuição e os gráficos: Análise de como alterações nos dados, como adição, remoção ou modificação de registros, podem influenciar a distribuição dos mesmos e alterar as representações gráficas, proporcionando uma compreensão profunda dos efeitos dessas mudanças nas visualizações e nos resultados da análise.
   
-https://projeto-sprint5-gtmt.onrender.com
+[https://projeto-sprint5-gtmt.onrender.com](https://projeto-aplicativo-web.onrender.com/)
 
